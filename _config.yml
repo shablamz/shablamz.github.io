@@ -1,6 +1,7 @@
 title: Shahad Qathan
 logo: /assets/img/logo2.png
-description: Portfolio of my most recent work including projects and publications.
+description: Personal Page
+long_description: Software Engineer and AI researcher*
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
