@@ -2,7 +2,7 @@
 ---
 ## Predicting Protein Functions From Interactions Using Graph Neural Networks and Ontologies
 <div style="text-align: justify">Masters Thesis by Shahad Qathan. Supervised by Dr. Robert Hoehndorf.</div>
-
+<br>
 [![View full document](https://img.shields.io/badge/PDF-View_Full_Document-blue?logo=adobe-acrobat-reader&logoColor=white)](assets/Shahad_Thesis.pdf)
 
 
