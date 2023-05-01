@@ -1,2 +1,2 @@
-# shasmash.github.io
+# shablamz.github.io
 Portfolio of my most recent work including projects and publications.
