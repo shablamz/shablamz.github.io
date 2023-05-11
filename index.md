@@ -1,6 +1,9 @@
-# Published and Presented Work
+# Portfolio
 ---
-## Predicting Protein Functions From Interactions Using Graph Neural Networks and Ontologies
+
+## Published and Presented Work
+
+### Predicting Protein Functions From Interactions Using Graph Neural Networks and Ontologies
 <div style="text-align: justify">Masters Thesis by Shahad Qathan. Supervised by Dr. Robert Hoehndorf.</div>
 <br>
 [![View full document](https://img.shields.io/badge/PDF-View_Full_Document-blue?logo=adobe-acrobat-reader&logoColor=white)](assets/Shahad_Thesis.pdf)
@@ -10,3 +13,12 @@
 <br>
 <center><img src="assets/img/overview.jpg"/></center>
 <br>
+
+---
+
+## Machine Learning Projects
+
+---
+
+## Data Science
+
