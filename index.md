@@ -19,15 +19,17 @@
 ## Machine Learning Projects
 
 
-### Meow
+### Detection of emotions expressed vocally using Convolutional Neural Networks
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://shalabs.github.io)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
 
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">Emotion plays a significant role in the way humans understand the true meaning of human-spoken languages. The emotion implicitly expressed by a speaker can change the entire underlying meaning of a sentence. Thus, many studies have investigated methods to identify the speaker’s emotions of spoken languages automatically. This task is very challenging, even for humans, and requires some expertise due to the subtle differences between some emotions (e.g., surprise and anger). Automatic Speech Emotion Recognition (SER) is an application of Artificial Intelligence, where Machine Learning models are used to predict the emotion expressed by speakers (Kerkeni et al., 2019). In this work, we use a hierarchical classification approach to see if it can improve the performance of the classical 1-level classifiers in predicting emotions expressed in speech.</div>
 
-<center><img src="assets/img/overview.jpg"/></center>
+<center><img src="assets/img/ser_fig1.jpg"/></center>
+<center><img src="assets/img/ser_fig2.jpg"/></center>
+
 
 ---
 
