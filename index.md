@@ -19,7 +19,7 @@
 ## Machine Learning Projects
 
 
-### Detection of emotions expressed vocally using Convolutional Neural Networks
+### Analysis and Detection of Emotions Expressed Vocally Using Convolutional Neural Networks
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
