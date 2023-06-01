@@ -28,6 +28,21 @@
 
 
 
+### Computational Drug Discovery for SARS-CoV-2
+
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+
+
+<div style="text-align: justify">Emotion plays a significant role in the way humans understand the true meaning of human-spoken languages. The emotion implicitly expressed by a speaker can change the entire underlying meaning of a sentence. Thus, many studies have investigated methods to identify the speaker’s emotions of spoken languages automatically. This task is very challenging, even for humans, and requires some expertise due to the subtle differences between some emotions (e.g., surprise and anger). Automatic Speech Emotion Recognition (SER) is an application of Artificial Intelligence, where Machine Learning models are used to predict the emotion expressed by speakers (Kerkeni et al., 2019). In this work, we use a hierarchical classification approach to see if it can improve the performance of the classical 1-level classifiers in predicting emotions expressed in speech.</div>
+
+<br>
+<center><img src="assets/img/ser_fig1.webp"/></center>
+<center><img src="assets/img/ser_fig2.png"/></center>
+<br>
+
+
 ### Analysis and Detection of Emotions Expressed Vocally Using Convolutional Neural Networks
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
