@@ -35,7 +35,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
 
 
-<div style="text-align: justify">Emotion plays a significant role in the way humans understand the true meaning of human-spoken languages. The emotion implicitly expressed by a speaker can change the entire underlying meaning of a sentence. Thus, many studies have investigated methods to identify the speaker’s emotions of spoken languages automatically. This task is very challenging, even for humans, and requires some expertise due to the subtle differences between some emotions (e.g., surprise and anger). Automatic Speech Emotion Recognition (SER) is an application of Artificial Intelligence, where Machine Learning models are used to predict the emotion expressed by speakers (Kerkeni et al., 2019). In this work, we use a hierarchical classification approach to see if it can improve the performance of the classical 1-level classifiers in predicting emotions expressed in speech.</div>
+<div style="text-align: justify">flalalalala.</div>
 
 <br>
 <center><img src="https://github.com/shalabs/computational-drug-discovery/assets/80707214/6d812754-db09-407a-8679-7af467c5f00b"/></center>
