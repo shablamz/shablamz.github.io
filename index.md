@@ -26,6 +26,18 @@
 
 ## Personal Projects
 
+### Analyzing Activity in Mouse Brain
+
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+
+
+<div style="text-align: justify">flalalalala.</div>
+
+<br>
+![image](https://github.com/shalabs/shalabs.github.io/assets/80707214/0e7ad3dc-7b88-4011-a787-1dd9a9b19dc6)
+<br>
 
 
 ### Computational Drug Discovery for SARS-CoV-2
