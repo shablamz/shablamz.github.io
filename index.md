@@ -64,8 +64,7 @@
 <div style="text-align: justify">flalalalala.</div>
 
 <br>
-<center> ![Screen Shot 2023-06-03 at 12 10 48 PM](https://github.com/shalabs/shalabs.github.io/assets/80707214/756e281e-85a4-4149-9cd3-89493fcad38d)
-/></center>
+<center><img src="assets/img/webpage_ss.png"/></center>
 <br>
 
 
