@@ -64,7 +64,7 @@
 <div style="text-align: justify">flalalalala.</div>
 
 <br>
-<center><img src="assets/img/webpage_ss.png"/></center>
+<center><img src="assets/img/webpage-ss.png"/></center>
 <br>
 
 
