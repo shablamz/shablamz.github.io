@@ -64,8 +64,8 @@
 <div style="text-align: justify">flalalalala.</div>
 
 <br>
-<center><img src="![Screen Shot 2023-06-03 at 12 10 48 PM](https://github.com/shalabs/shalabs.github.io/assets/80707214/264c8b98-3536-4872-94f3-7e66d879e900)
-"/></center>
+<center> ![Screen Shot 2023-06-03 at 12 10 48 PM](https://github.com/shalabs/shalabs.github.io/assets/80707214/756e281e-85a4-4149-9cd3-89493fcad38d)
+/></center>
 <br>
 
 
