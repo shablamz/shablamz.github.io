@@ -75,7 +75,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
 
 
-<div style="text-align: justify">flalalalala.</div>
+<div style="text-align: justify">The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real-time. While online education caters to a large number of students simultaneously, it has certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Pervious work has shown the effectivness of applying bidirectional LSTM on type of data. I expermint with variations of LSTM as reported in the most recent works to improve on the current state of the art.</div>
 
 <br>
 <center><img src="assets/img/webpage-ss.png"/></center>
