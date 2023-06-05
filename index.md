@@ -78,6 +78,8 @@
 <div style="text-align: justify">The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real-time. While online education caters to a large number of students simultaneously, it has certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Pervious work has shown the effectivness of applying bidirectional LSTM on type of data. I expermint with variations of LSTM as reported in the most recent works to improve on the current state of the art.</div>
 
 <br>
+
+<center><img src="assets/img/ser_fig1.webp](https://github.com/shalabs/shalabs.github.io/assets/80707214/ec885648-14cc-4b11-a62a-cf82c2a5ee6c"/></center>
 <center><img src="https://github.com/shalabs/detecting-confusion-in-students/assets/80707214/b6735813-0e74-44b5-a40d-2c7d7d352a8b"/></center>
 <br>
 
