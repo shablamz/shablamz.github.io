@@ -68,6 +68,19 @@
 <br>
 
 
+### Analysis of EEG of Confused Students
+
+
+[![View webpage](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+
+
+<div style="text-align: justify">flalalalala.</div>
+
+<br>
+<center><img src="assets/img/webpage-ss.png"/></center>
+<br>
+
 
 ### Analysis and Detection of Emotions Expressed Vocally Using Convolutional Neural Networks
 
