@@ -69,7 +69,7 @@
 <br>
 
 
-### Analysis of EEG of Confused Students
+### Analysis of EEG data of Confused Students
 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1vbNLNgzMyvfefUMjrMy0uQTyt30Z5kon?usp=sharing)
