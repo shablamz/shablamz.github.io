@@ -26,14 +26,14 @@
 
 ## Personal Projects
 
-### Analyzing Activity in Mouse Brain
+### Analyzing the Circadian Rhythm in Mouse Brain
 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Analyzing-activity-in-mouse-brain)
 
 
-<div style="text-align: justify">flalalalala.</div>
+<div style="text-align: justify">Analysis of time-series data of images of mice brains. a fluorescent protein is used as a reporter for the circadian clock gene Period1. The expression of the gene is followed in many neurons for several days to understand how the neural network in the suprachiasmatic nucleus synchronizes the circadian clock of individual neurons to produce a precise circadian rhythm. The fluorescence intensity of each subreigons of the image is analyzed over multiple circadian cycles.</div>
 
 <br>
 ![image](https://github.com/shalabs/shalabs.github.io/assets/80707214/0e7ad3dc-7b88-4011-a787-1dd9a9b19dc6)
