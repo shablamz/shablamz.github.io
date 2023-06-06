@@ -47,7 +47,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/computational-drug-discovery)
 
 
-<div style="text-align: justify">flalalalala.</div>
+<div style="text-align: justify"> The ChEMBL Database contains curated bioactivity data of more than 2 million compounds. In this project, I use it to extract bioactivity data for SARS coronavirus 2 Replicase polyprotein 1ab, perform exploratory data analysis, then build a machine learning model. </div>
 
 <br>
 <center><img src="https://github.com/shalabs/computational-drug-discovery/assets/80707214/6d812754-db09-407a-8679-7af467c5f00b"/></center>
@@ -61,7 +61,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/backupsha/drug-discovery)
 
 
-<div style="text-align: justify">flalalalala.</div>
+<div style="text-align: justify"> This app allows for prediction of the bioactivity towards inhibting the `Acetylcholinesterase` enzyme.
+  `Acetylcholinesterase` is a drug target for Alzheimer's disease. </div>
 
 <br>
 <center><img src="assets/img/webpage-ss.png"/></center>
