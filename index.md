@@ -57,8 +57,8 @@
 ### Computational Drug Discovery - Bioactivity Prediction App (Acetylcholinesterase)
 
 
-[![View webpage](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+[![View webpage](https://img.shields.io/badge/View_Webpage-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/drug-discovery-site)
 
 
 <div style="text-align: justify">flalalalala.</div>
@@ -72,7 +72,7 @@
 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1vbNLNgzMyvfefUMjrMy0uQTyt30Z5kon?usp=sharing)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/detecting-confusion-in-students)
 
 
 <div style="text-align: justify">The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real-time. While online education caters to a large number of students simultaneously, it has certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Pervious work has shown the effectivness of applying bidirectional LSTM on type of data. I expermint with variations of LSTM as reported in the most recent works to improve on the current state of the art.</div>
