@@ -30,7 +30,7 @@
 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Analyzing-activity-in-mouse-brain)
 
 
 <div style="text-align: justify">flalalalala.</div>
@@ -44,7 +44,7 @@
 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/156z9UiQBDNX4jF0SNRQUsmgmhze98pr0?usp=sharing)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Detection-of-emotions-expressed-vocally-using-Deep-Learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/computational-drug-discovery)
 
 
 <div style="text-align: justify">flalalalala.</div>
@@ -57,8 +57,8 @@
 ### Computational Drug Discovery - Bioactivity Prediction App (Acetylcholinesterase)
 
 
-[![View webpage](https://img.shields.io/badge/View_Webpage-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/drug-discovery-site)
+[![View webpage](https://img.shields.io/badge/View_Webpage-blue?logo=Google&logoColor=FDBA18)](https://backupsha-drug-discovery-app-m6a3nz.streamlit.app/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/backupsha/drug-discovery)
 
 
 <div style="text-align: justify">flalalalala.</div>
