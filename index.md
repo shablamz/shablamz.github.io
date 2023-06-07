@@ -22,6 +22,7 @@
 
 <div style="text-align: justify">Sickle cell disease is a severe hereditary disease caused by an abnormality of the red blood cells. The current therapeutic decision-making process applied to sickle cell disease includes monitoring a patient’s symptoms and complications and then adjusting the treatment accordingly. This process is time-consuming, which might result in serious consequences for patients’ lives and could lead to irreversible disease complications. Artificial intelligence, specifically machine learning, is a powerful technique that has been used to support medical decisions. This paper aims to review the recently developed machine learning models designed to interpret medical data regarding sickle cell disease. To propose an intelligence model, the suggested framework has to be performed in the following sequence. First, the data is preprocessed by imputing missing values and balancing them. Then, suitable feature selection methods are applied, and different classifiers are trained and tested. Finally, the performing model with the highest predefined performance metric over all experiments conducted is nominated. Thus, the aim of developing such a model is to predict the severity of a patient’s case, to determine the clinical complications of the disease, and to suggest the correct dosage of the treatment(s).</div>
 <br>
+
 ---
 
 ## Personal Projects
@@ -54,6 +55,7 @@
 <br>
 
 
+
 ### Computational Drug Discovery - Bioactivity Prediction App (Acetylcholinesterase)
 
 
@@ -67,6 +69,7 @@
 <br>
 <center><img src="assets/img/webpage-ss.png"/></center>
 <br>
+
 
 
 ### Analysis of EEG data of Confused Students
@@ -99,6 +102,6 @@
 
 ---
 
----
+
 
 
