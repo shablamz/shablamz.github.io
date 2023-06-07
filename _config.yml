@@ -1,7 +1,6 @@
 title: <p align="center"> Shahad Qathan </p>
 logo: /assets/img/p.png
-description: 
-<p align="center">
+description: <p align="center">
   <a href="assets/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/shahad-qathan/">LinkedIn</a> |
   <a href="https://github.com/shalabs">GitHub</a>
@@ -10,7 +9,6 @@ description:
   <p align="justify">
   Interested in applying Artificial Intelligence and Data Science in bioinformatics and healthcare to solve complex problems.
   </p>
-
 
 long_description: Software Engineer and AI researcher*
 show_downloads: false
