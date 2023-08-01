@@ -27,6 +27,15 @@
 
 ## Personal Projects
 
+### RNAseq using Deseq2 and Functional Enrichment Analysis
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/differential-gene-expression-analysis)
+
+Gene differential expression analysis of RNAseq data, including several steps such as filtering, preprocessing, visualization, clustering, and Enrichment using R Bioconductor. 
+
+<img width="715" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/141d08ad-01f8-44d1-9cdc-7ce9ce0e1126">
+
+
+
 ### Analyzing the Circadian Rhythm in Mouse Brain
 
 
@@ -34,7 +43,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Analyzing-activity-in-mouse-brain)
 
 
-<div style="text-align: justify">Analysis of time-series data of images of mice brains. a fluorescent protein is used as a reporter for the circadian clock gene Period1. The expression of the gene is followed in many neurons for several days to understand how the neural network in the suprachiasmatic nucleus synchronizes the circadian clock of individual neurons to produce a precise circadian rhythm. The fluorescence intensity of each subreigons of the image is analyzed over multiple circadian cycles.</div>
+<div style="text-align: justify">Analysis of time-series data of images of mice brains. a fluorescent protein is used as a reporter for the circadian clock gene Period1. The expression of the gene is followed in many neurons for several days to understand how the neural network in the suprachiasmatic nucleus synchronizes the circadian clock of individual neurons to produce a precise circadian rhythm. The fluorescence intensity of each subregions of the image is analyzed over multiple circadian cycles.</div>
 
 <br>
 ![image](https://github.com/shalabs/shalabs.github.io/assets/80707214/0e7ad3dc-7b88-4011-a787-1dd9a9b19dc6)
