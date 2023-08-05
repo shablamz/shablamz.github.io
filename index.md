@@ -34,6 +34,15 @@ Gene differential expression analysis of RNAseq data, including several steps su
 
 <img width="715" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/141d08ad-01f8-44d1-9cdc-7ce9ce0e1126">
 
+### Label-free Cell Segmentation with Deep Learning (in progress)
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ZzKSD9GWtOLVK30zV3pa8Okun7H-DCB-?usp=sharing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/label-free-live-cell-segmentation)
+
+Label-free imaging is a method for visualizing cells that have not been labeled or altered in any way, so cells are analyzed in their native, unperturbed state. Findings are therefore more reliable and biologically relevant. It is also a much quicker and cheaper technique as there is no genetic modification and cell line generation. However, label-free imaging presents unique challenges. 
+
+<img width="620" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/b3aa6284-3378-416f-8e99-a14fe645e5b7">
+
 
 
 ### Analyzing the Circadian Rhythm in Mouse Brain
