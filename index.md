@@ -41,7 +41,7 @@ Gene differential expression analysis of RNAseq data, including several steps su
 
 Label-free imaging is a method for visualizing cells that have not been labeled or altered in any way, so cells are analyzed in their native, unperturbed state. Findings are therefore more reliable and biologically relevant. It is also a much quicker and cheaper technique as there is no genetic modification and cell line generation. However, label-free imaging presents unique challenges. 
 
-<img width="620" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/b3aa6284-3378-416f-8e99-a14fe645e5b7">
+<img width="658" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/0da5c2e3-e8e0-48a4-958d-5fcae0303c5e">
 
 
 
