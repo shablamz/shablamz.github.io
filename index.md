@@ -9,7 +9,7 @@
 [![View full document](https://img.shields.io/badge/PDF-View_Full_Document-blue?logo=adobe-acrobat-reader&logoColor=white)](assets/Shahad_Thesis.pdf)
 
 
-<div style="text-align: justify">To understand the process of life, it is crucial for us to study proteins and their functions. Proteins execute (almost) all cellular activities and their func- tions are standardized by Gene Ontology (GO). The amount of discovered pro- tein sequences grows rapidly as a consequence of the fast rate of development of technologies in gene sequencing. In UniProKB, there are more than 200 million proteins. Still, less than 1% of the proteins in the UniProtKB database are exper- imentally GO-annotated, which is the result of the exorbitant cost of biological experiments. To minimize the large gap, developing an efficient and effective method for automatic protein function prediction (AFP) is important.</div>
+<div style="text-align: justify">To understand the process of life, it is crucial for us to study proteins and their functions. Proteins execute (almost) all cellular activities and their func- tions are standardized by Gene Ontology (GO). The amount of discovered pro- tein sequences grows rapidly as a consequence of the fast rate of development of technologies in gene sequencing. In UniProKB, there are more than 200 million proteins. Still, less than 1% of the proteins in the UniProtKB database are experimentally GO-annotated, which is the result of the exorbitant cost of biological experiments. To minimize the large gap, developing an efficient and effective method for automatic protein function prediction (AFP) is important.</div>
 <br>
 <center><img src="assets/img/overview.jpg"/></center>
 <br>
@@ -30,7 +30,7 @@
 ### RNAseq using Deseq2 and Functional Enrichment Analysis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/differential-gene-expression-analysis)
 
-Gene differential expression analysis of RNAseq data, including several steps such as filtering, preprocessing, visualization, clustering, and Enrichment using R Bioconductor. 
+Gene differential expression analysis of RNAseq human diseases data, including several steps such as filtering, preprocessing, visualization, clustering, and Enrichment using R Bioconductor. 
 
 <img width="715" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/141d08ad-01f8-44d1-9cdc-7ce9ce0e1126">
 
@@ -39,7 +39,7 @@ Gene differential expression analysis of RNAseq data, including several steps su
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ZzKSD9GWtOLVK30zV3pa8Okun7H-DCB-?usp=sharing)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/label-free-live-cell-segmentation)
 
-Label-free imaging is a method for visualizing cells that have not been labeled or altered, so cells are analyzed in their native, unperturbed state. Findings are therefore more reliable and biologically relevant. It is also a much quicker and cheaper technique as there is no genetic modification and cell line generation. A combination of contrast-improving optics and image analysis algorithms are used to analyze cell cultures. Accurate segmentation of individual cells enables the exploration of complex biological questions, but this requires sophisticated imaging processing pipelines due to the low contrast and high object density. In this work, I used Deep Learning techniques to train a model and evaluate its segmentation accuracy. 
+Label-free imaging is a method for visualizing cells that have not been labeled or altered, so cells are analyzed in their native, unperturbed state. Findings are therefore more reliable and biologically relevant. It is also a much quicker and cheaper technique as there is no genetic modification and cell line generation. A combination of contrast-improving optics and image analysis algorithms are used to analyze cell cultures. Accurate segmentation of individual cells enables the exploration of complex biological questions, but this requires sophisticated imaging processing pipelines due to the low contrast and high object density. In this work, I use Deep Learning techniques to train a model and evaluate its segmentation accuracy. 
 
 <img width="658" alt="image" src="https://github.com/shalabs/shalabs.github.io/assets/80707214/0da5c2e3-e8e0-48a4-958d-5fcae0303c5e">
 
@@ -52,7 +52,7 @@ Label-free imaging is a method for visualizing cells that have not been labeled 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/Analyzing-activity-in-mouse-brain)
 
 
-<div style="text-align: justify">Analysis of time-series data of images of mice brains. a fluorescent protein is used as a reporter for the circadian clock gene Period1. The expression of the gene is followed in many neurons for several days to understand how the neural network in the suprachiasmatic nucleus synchronizes the circadian clock of individual neurons to produce a precise circadian rhythm. The fluorescence intensity of each subregions of the image is analyzed over multiple circadian cycles.</div>
+<div style="text-align: justify">Analysis of time-series data of images of mice brains. a fluorescent protein is used as a reporter for the circadian clock gene Period1. The expression of the gene is followed in many neurons for several days to understand how the neural network in the suprachiasmatic nucleus synchronizes the circadian clock of individual neurons to produce a precise circadian rhythm. The fluorescence intensity of each subregion of the image is analyzed over multiple circadian cycles.</div>
 
 <br>
 ![image](https://github.com/shalabs/shalabs.github.io/assets/80707214/0e7ad3dc-7b88-4011-a787-1dd9a9b19dc6)
@@ -81,7 +81,7 @@ Label-free imaging is a method for visualizing cells that have not been labeled 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/backupsha/drug-discovery)
 
 
-<div style="text-align: justify"> This app allows for prediction of the bioactivity towards inhibting the `Acetylcholinesterase` enzyme.
+<div style="text-align: justify"> This app allows for prediction of the bioactivity towards inhibiting the `Acetylcholinesterase` enzyme.
   `Acetylcholinesterase` is a drug target for Alzheimer's disease. </div>
 
 <br>
@@ -90,14 +90,14 @@ Label-free imaging is a method for visualizing cells that have not been labeled 
 
 
 
-### Analysis of EEG data of Confused Students
+### Analysis of EEG Data of Confused Students
 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1vbNLNgzMyvfefUMjrMy0uQTyt30Z5kon?usp=sharing)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shalabs/detecting-confusion-in-students)
 
 
-<div style="text-align: justify">The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real-time. While online education caters to a large number of students simultaneously, it has certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Pervious work has shown the effectivness of applying bidirectional LSTM on type of data. I expermint with variations of LSTM as reported in the most recent works to improve on the current state of the art.</div>
+<div style="text-align: justify">The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real time. While online education caters to a large number of students simultaneously, it has certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Previous work has shown the effectiveness of applying bidirectional LSTM on type of data. I experiment with variations of LSTM as reported in the most recent works to improve on the current state of the art.</div>
 
 <br>
 
